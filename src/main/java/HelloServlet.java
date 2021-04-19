@@ -9,7 +9,7 @@ public class HelloServlet extends HttpServlet {
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         response.getWriter().println("Hi好中国");
         response.getWriter().println(new Date().getTime());
-        System.out.println("nihoasfasdfsafsafsafas11111111");
+        System.out.println("nihoasfasdfsafsafsaf234234342423as11111111");
     }
 //
 //    @Override
